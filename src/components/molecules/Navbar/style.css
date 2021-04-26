@@ -1,0 +1,12 @@
+.line {
+    margin-left: 5px;
+}
+
+.NavLink {
+    color: #000000;
+    font-size: 14px;
+}
+
+.selected {
+    color: #fff;
+}

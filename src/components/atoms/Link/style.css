@@ -1,0 +1,28 @@
+.Link {
+    text-decoration: none;
+    color: #bcc5cf;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: "Roboto-Regular", sans-serif;
+}
+
+.selected {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.visited:visited {
+    color: rgb(146, 138, 138);
+}
+
+.link {
+    margin-left: 3px;
+}
+
+.link:hover {
+    border-bottom: 1px solid rgb(146, 138, 138, 0.5);
+}
+
+.more {
+    margin-left: 35px;
+}
